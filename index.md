@@ -1,7 +1,3 @@
-Read it, learn it, love it.
-
-* Trainz [config builder](configbuilder.htm)
-
 ---
 ---
 
@@ -11,3 +7,6 @@ Welcome to My Home Page
 
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
+
+Points of Interest
+* Trainz [config builder](configbuilder.htm)
